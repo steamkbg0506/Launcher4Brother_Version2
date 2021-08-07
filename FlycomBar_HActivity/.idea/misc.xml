@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProject/FlycomBar_HActivity/app/src/main/res/drawable/divider.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProject/FlycomBar_HActivity/app/src/main/res/drawable/ic_launcher_background.xml" value="0.31025641025641026" />
+        <entry key="..\:/AndroidStudioProject/FlycomBar_HActivity/app/src/main/res/layout/activity_boiling_water.xml" value="0.297008547008547" />
+        <entry key="..\:/AndroidStudioProject/FlycomBar_HActivity/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProject/FlycomBar_HActivity/app/src/main/res/layout/activity_settings.xml" value="0.297008547008547" />
+        <entry key="..\:/AndroidStudioProject/FlycomBar_HActivity/app/src/main/res/layout/content_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProject/FlycomBar_HActivity/app/src/main/res/layout/fragment_first.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProject/FlycomBar_HActivity/app/src/main/res/menu/menu_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProject/FlycomBar_HActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
