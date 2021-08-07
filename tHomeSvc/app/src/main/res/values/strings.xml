@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">tHomeSvc</string>
+    <string name="accessibility_service_name">MyAccessibilityService</string>
 </resources>
